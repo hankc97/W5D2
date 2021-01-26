@@ -7,3 +7,4 @@ def execute(sql)
 
   query_result
 end
+
